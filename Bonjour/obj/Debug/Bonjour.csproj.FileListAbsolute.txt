@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\bin\Debug\Bonjour.exe.config
+C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\bin\Debug\Bonjour.exe
+C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\bin\Debug\Bonjour.pdb
+C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\obj\Debug\Bonjour.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\obj\Debug\Bonjour.Hello.resources
+C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\obj\Debug\Bonjour.Properties.Resources.resources
+C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\obj\Debug\Bonjour.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\obj\Debug\Bonjour.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\obj\Debug\Bonjour.exe
+C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\obj\Debug\Bonjour.pdb
