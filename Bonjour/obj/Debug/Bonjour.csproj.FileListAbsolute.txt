@@ -8,3 +8,4 @@ C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\obj\Debug\Bonjour.
 C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\obj\Debug\Bonjour.csproj.CoreCompileInputs.cache
 C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\obj\Debug\Bonjour.exe
 C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\obj\Debug\Bonjour.pdb
+C:\Users\admin\Desktop\cours\csharp\Decouvrir\Bonjour\Bonjour\obj\Debug\Bonjour.Age.resources

@@ -29,7 +29,15 @@ namespace Bonjour
 
         private void Valider_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Bonjour " + txtPrn.Text + " " + txtNom.Text);
+            //MessageBox.Show("Bonjour " + txtPrn.Text + " " + txtNom.Text);
+            Age age = new Age();
+            age.Identite = txtPrn.Text + " " + " " + txtNom.Text;
+            age.Show();
+        }
+
+        private void btnQuitter_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

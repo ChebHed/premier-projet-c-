@@ -32,7 +32,8 @@
             this.lblNom = new System.Windows.Forms.Label();
             this.txtPrn = new System.Windows.Forms.TextBox();
             this.txtNom = new System.Windows.Forms.TextBox();
-            this.Valider = new System.Windows.Forms.Button();
+            this.btnValider = new System.Windows.Forms.Button();
+            this.btnQuitter = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblPrn
@@ -68,22 +69,33 @@
             this.txtNom.Size = new System.Drawing.Size(100, 20);
             this.txtNom.TabIndex = 3;
             // 
-            // Valider
+            // btnValider
             // 
-            this.Valider.Location = new System.Drawing.Point(226, 173);
-            this.Valider.Name = "Valider";
-            this.Valider.Size = new System.Drawing.Size(75, 23);
-            this.Valider.TabIndex = 4;
-            this.Valider.Text = "Valider";
-            this.Valider.UseVisualStyleBackColor = true;
-            this.Valider.Click += new System.EventHandler(this.Valider_Click);
+            this.btnValider.Location = new System.Drawing.Point(226, 173);
+            this.btnValider.Name = "btnValider";
+            this.btnValider.Size = new System.Drawing.Size(75, 23);
+            this.btnValider.TabIndex = 4;
+            this.btnValider.Text = "Valider";
+            this.btnValider.UseVisualStyleBackColor = true;
+            this.btnValider.Click += new System.EventHandler(this.Valider_Click);
+            // 
+            // btnQuitter
+            // 
+            this.btnQuitter.Location = new System.Drawing.Point(383, 173);
+            this.btnQuitter.Name = "btnQuitter";
+            this.btnQuitter.Size = new System.Drawing.Size(75, 23);
+            this.btnQuitter.TabIndex = 5;
+            this.btnQuitter.Text = "quitter";
+            this.btnQuitter.UseVisualStyleBackColor = true;
+            this.btnQuitter.Click += new System.EventHandler(this.btnQuitter_Click);
             // 
             // Hello
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.Valider);
+            this.Controls.Add(this.btnQuitter);
+            this.Controls.Add(this.btnValider);
             this.Controls.Add(this.txtNom);
             this.Controls.Add(this.txtPrn);
             this.Controls.Add(this.lblNom);
@@ -102,6 +114,7 @@
         private System.Windows.Forms.Label lblNom;
         private System.Windows.Forms.TextBox txtPrn;
         private System.Windows.Forms.TextBox txtNom;
-        private System.Windows.Forms.Button Valider;
+        private System.Windows.Forms.Button btnValider;
+        private System.Windows.Forms.Button btnQuitter;
     }
 }
